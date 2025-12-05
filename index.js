@@ -6,4 +6,4 @@ function init() {
     console.log('Application initialized');
 }
 
-init();
+init(); // updated
