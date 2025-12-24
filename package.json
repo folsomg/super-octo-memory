@@ -1,7 +1,7 @@
 {
   "name": "super-octo-memory",
   "version": "0.1.0",
-  "description": "A super octo memory project",
+  "description": "A super octo memory project", // updated
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
